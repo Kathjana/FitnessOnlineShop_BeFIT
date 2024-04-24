@@ -1,14 +1,19 @@
 # FitnessOnlineShop_BeFIT
-This is the repository of our student project "BeFIT", an applicable web online shop for clothes, nutritions and sport tools.
 
+This is the repository for a web application designed to provide an easy and user-friendly shopping experience for a successful fitness journey. The application is a student project, developed for the module *Internet Technology FS24* by Katja, Sedat, Cem & Susmy.
 
-# Pizzeria Reference Project (PizzaRP)
+The website provides various fitness clothes, equipment and nutritions. The products can be filtered by various attributes, added to a shopping cart and the payment process supports different currencies, such as EUR, USD, CHF,...
 
-This is a minimal Pizzeria Reference Project (PizzaRP) as a template for students. 
+The web shop contains the following pages:
+1. Home
+2. Clothing
+3. Nutritions
+4. Equipment
+5. Login/SignUp
+7. About Us
+8. Contact
 
 [![License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-> 🚧: **This is a template project**: Make sure you adapt this documentation and the source code in this project according to your needs and use case. Comments are provided with "🚧:". Do not leave these comments in your final submission!
 
 #### Contents:
 - [Analysis](#analysis)
@@ -27,22 +32,46 @@ This is a minimal Pizzeria Reference Project (PizzaRP) as a template for student
   - [Milestones](#milestones)
 
 ## Analysis
-> 🚧: You can reuse the analysis (you made) from other projects (e.g., requirement engineering), but it must be submitted according to the following template. 
+> 💥What does the template mean with "🚧: You can reuse the analysis (you made) from other projects (e.g., requirement engineering), but it must be submitted according to the following template."?
+Shall we insert a table with different requirements (as below)? Or how should we integrate them?💥
 
-
+|:No:|:Ref:|:Title:|:Description:|
+|---|---|---|---|
+|R1||||
+|R2||||
+|R3|R1|||
 
 ### Scenario
+> 💥what is ment by scenario? cuz the reference project refers to one concrete functionality. Is the text from us sufficient enough?💥
 
-PizzaRP (Pizzeria Reference Project) is the smallest possible and lightweight demonstration tool allowing the pizzaiolo (Role: Admin) to manage its pizza catalog. 
+FitnessOnlineShop "BeFIT" is a webshop that provides different functionalities for users (customer) and the admin for the usage and management of the webshop. 
 
 ### User Stories
-1. As an Admin, I want to have a Web app to use on different mobile devices and desktop computers.
-2. As an Admin, I want to see a consistent visual appearance to navigate easily, and it should look consistent.
-3. As an Admin, I want to use list views to explore and read my business data.
-4. As an Admin, I want to use edit and create views to maintain my business data.
-5. As an Admin, I want to log-in so that I can authenticate myself.
-6. As a User, I want to use list views so that I can access public pages.
-7. (Optional) As a User, I want to authenticate myself so that I can read my personal and confidential data.
+
+Admin:
+1. As an Admin, I want to be able to add new products to the catalog.
+2. As an Admin, I want to edit and remove products from the catalog.
+3. As an Admin, I want to list all users registered on the plattform (and other views of business data?).
+4. As an Admin, I want to delete a user account if necessary.
+
+User:
+1. As an User, I want to be able to register on the platform.
+2. As an User, I want to browse products by filters.
+3. As an User, I want to view detailed product descriptions and additional information about the product.
+4. As an User, I want to see my order history.
+
+### Use Case
+
+> 💥insert images for each of the UCs!💥
+
+- UC-1
+- UC-2
+- UC-3
+- UC-4
+
+---------------------------------------------------------------
+**_Template Content from Reference Project_**
+
 
 ### Use Case
 
