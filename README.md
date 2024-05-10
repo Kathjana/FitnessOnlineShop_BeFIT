@@ -64,10 +64,10 @@ User:
 
 > 💥insert images for each of the UCs!💥
 
-- UC-1
-- UC-2
-- UC-3
-- UC-4
+- UC-1 [Browse through products by filters]: User can browse through the products by filters
+- UC-2 [Show gift promotion]: Users can receive a gift with a certain order value.
+- UC-3 [Show order history]: User can retrieve the information about his order history.
+- UC-4 [Show logged-in users]: Admin can retrieve all the logged-in users.  
 
 ---------------------------------------------------------------
 **_Template Content from Reference Project_**
