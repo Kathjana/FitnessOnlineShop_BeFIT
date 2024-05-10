@@ -62,7 +62,7 @@ User:
 
 ### Use Case
 
-> 💥insert images for each of the UCs!💥
+![Use Case Diagram for the Fitness Webshop](img/UC_FitnessWebshop.png)
 
 - UC-1 [Browse through products by filters]: User can browse through the products by filters
 - UC-2 [Show gift promotion]: Users can receive a gift with a certain order value.
@@ -71,16 +71,6 @@ User:
 
 ---------------------------------------------------------------
 **_Template Content from Reference Project_**
-
-
-### Use Case
-
-![](images/use-case.png)
-
-- UC-1 [Show all the Pizza]: Admin can retrieve all the pizza on the menu
-- UC-2 [Show a Pizza]: Admin can retrieve the information on a specific pizza.
-- UC-3 [Edit a Pizza]: Admin can create, update, and delete pizzas from the menu.
-- UC-4 [Show Current Location Offer]: User can retrieve special menu by location
 
 ## Design
 > 🚧: Keep in mind the Corporate Identity (CI); you shall decide appropriately the color schema, graphics, typography, layout, User Experience (UX), and so on.
