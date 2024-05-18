@@ -1,0 +1,11 @@
+{
+    "name": "PHP with Xdebug",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "extensions": [
+        "felixfbecker.php-debug"
+    ],
+    "settings": {
+        "php.validate.executablePath": "/usr/local/bin/php"
+    }
+}
