@@ -2,16 +2,13 @@
 
 This is the repository for a web application designed to provide an easy and user-friendly shopping experience for a successful fitness journey. The application is a student project, developed for the module *Internet Technology FS24* by Katja, Sedat, Cem & Susmy.
 
-The website provides various fitness clothes, equipment and nutritions. The products can be filtered by various attributes, added to a shopping cart and the payment process supports different currencies, such as EUR, USD, CHF,...
+The website provides various fitness clothes, equipment and nutritions. The products can be filtered by various attributes and added to a shopping cart.
 
 The web shop contains the following pages:
 1. Home
-2. Clothing
-3. Nutritions
-4. Equipment
-5. Login/SignUp
-7. About Us
-8. Contact
+2. Login
+3. Register
+4. About Us
 
 [![License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
@@ -37,12 +34,12 @@ Shall we insert a table with different requirements (as below)? Or how should we
 
 |:No:|:Ref:|:Title:|:Description:|
 |---|---|---|---|
-|R1||||
-|R2||||
-|R3|R1|||
+|R1||one|first|
+|R2||two|second|
+|R3|R1|three|third|
 
 ### Scenario
-> 💥what is ment by scenario? cuz the reference project refers to one concrete functionality. Is the text from us sufficient enough?💥
+> 💥Is the text from us sufficient enough?💥
 
 FitnessOnlineShop "BeFIT" is a webshop that provides different functionalities for users (customer) and the admin for the usage and management of the webshop. 
 
